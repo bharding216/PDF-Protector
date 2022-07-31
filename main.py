@@ -1,6 +1,5 @@
 #PDF Protector App
 #this is my main branch
-#one final test!!!!
 
 #start in the command prompt with "pip3 install PyPDF2"
 
