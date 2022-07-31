@@ -1,6 +1,5 @@
 #PDF Protector App
-#this is my main branch
-#this is a test to push changes to github
+#this is my new content branch
 
 #start in the command prompt with "pip3 install PyPDF2"
 
