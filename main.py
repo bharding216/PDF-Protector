@@ -1,5 +1,5 @@
 #PDF Protector App
-#this is my new content branch
+#this is a branch to use tkinter
 
 #start in the command prompt with "pip3 install PyPDF2"
 
