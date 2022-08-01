@@ -1,5 +1,7 @@
 #PDF Protector App
 #this is a branch to use tkinter to collect user input
+#the file that you want to encrypt must be located in 
+#Documents => PDF-Protector folder
 
 #start in the command prompt with "pip3 install PyPDF2"
 #also, pip3 install tk
